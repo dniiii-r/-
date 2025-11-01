@@ -1,0 +1,14 @@
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\bin\Debug\netcoreapp3.1\جلسه 4 تمرین 2.exe
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\bin\Debug\netcoreapp3.1\جلسه 4 تمرین 2.deps.json
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\bin\Debug\netcoreapp3.1\جلسه 4 تمرین 2.runtimeconfig.json
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\bin\Debug\netcoreapp3.1\جلسه 4 تمرین 2.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\bin\Debug\netcoreapp3.1\جلسه 4 تمرین 2.dll
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\bin\Debug\netcoreapp3.1\جلسه 4 تمرین 2.pdb
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\obj\Debug\netcoreapp3.1\جلسه 4 تمرین 2.csproj.AssemblyReference.cache
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\obj\Debug\netcoreapp3.1\جلسه 4 تمرین 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\obj\Debug\netcoreapp3.1\جلسه 4 تمرین 2.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\obj\Debug\netcoreapp3.1\جلسه 4 تمرین 2.AssemblyInfo.cs
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\obj\Debug\netcoreapp3.1\جلسه 4 تمرین 2.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\obj\Debug\netcoreapp3.1\جلسه 4 تمرین 2.dll
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\obj\Debug\netcoreapp3.1\جلسه 4 تمرین 2.pdb
+C:\Users\Dani\source\repos\جلسه 4 تمرین 2\جلسه 4 تمرین 2\obj\Debug\netcoreapp3.1\جلسه 4 تمرین 2.genruntimeconfig.cache
